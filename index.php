@@ -9,7 +9,7 @@
 <body>
     
     <div class="container">
-        <h3 class="mt-4">Registered Names</h3>
+        <h3 class="mt-4 mr-5">Registered Names</h3><a class="btn btn-success" href="view/index.php">Back</a>
         <hr>
 
         <?php require 'requests/getNames.php' ?>
